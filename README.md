@@ -23,4 +23,4 @@ Implement a stack class and calculate maximum value and average on large number 
 ## Run the code
 
 - Write you test cases in the run file
-- run <ruby run.rb>
+- run `<ruby run.rb>`
